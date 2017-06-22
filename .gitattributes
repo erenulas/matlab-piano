@@ -1,2 +1,2 @@
 * linguist-vendored
-*.m linguist-vendored=false
+*.m linguist-language=Matlab
